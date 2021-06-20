@@ -1,6 +1,6 @@
 # FaceMask.ai
 
-The dataset I have created for this will be in the g-drive link:
+I will upload the dataset I created in a G-drive folder and share the link here in a few days (It's taking a lot of time to upload it onto G-drive and GitHub isn't even allowing me to do it directly)
 
 .h5 contains the trained model
 
